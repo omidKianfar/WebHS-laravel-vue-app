@@ -1,0 +1,12 @@
+.highlight {
+    background-color: yellow;
+}
+
+.fontSize {
+    font-size: 60px;
+}
+
+.textCenter {
+    transform: translate(200px);
+    transition: all .1s ease;
+}
